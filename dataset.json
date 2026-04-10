@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Green Bay (Metro), Wisconsin, covering Green Bay. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Green Bay (Metro), Wisconsin, US",
+  "export_job_id": "9ab77f92-c6ed-4cdf-9a88-b0732bfc779c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 185393,
+  "location_name": "Green Bay, WI",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-green-bay-metro-wisconsin-us-sample-185393",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/185393/beamstation_185393_restaurants-us-greenbaywi_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 64,
+  "sample_sha256": "a9c12e55fd45da1dff594b4d4119e6332113de3ad61f5df6c4eb5866151ff744",
+  "sample_size_bytes": 232734,
+  "total_records": 644,
+  "updated_at": "2026-04-09T10:31:39.321942+00:00"
+}
