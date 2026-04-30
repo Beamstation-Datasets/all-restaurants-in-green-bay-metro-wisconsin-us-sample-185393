@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d5037b57-47bc-4437-a96f-ac1ed81187f6",
+  "export_job_id": "26083fda-9ebb-42b7-8a43-007dca23a363",
   "id_short": 185393,
-  "published_at": "2026-04-23T19:18:24Z",
+  "published_at": "2026-04-30T19:06:16Z",
   "repo_name": "all-restaurants-in-green-bay-metro-wisconsin-us-sample-185393",
   "sample_asset_name": "beamstation_185393_restaurants-us-greenbaywi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/185393/beamstation_185393_restaurants-us-greenbaywi_SAMPLE_DIST.csv",
-  "sample_records": 42,
-  "sample_sha256": "8f855bf9d4a8e47d947f7e3061410d260b7c98ab0b11572bb60fb294c429edae",
-  "sample_size_bytes": 174396,
-  "total_records": 425
+  "sample_records": 68,
+  "sample_sha256": "738c8ce288fb1792ffa7e5e35c324032d42f65e590b9bf0ee0df8e32f4b600aa",
+  "sample_size_bytes": 226965,
+  "total_records": 686
 }
